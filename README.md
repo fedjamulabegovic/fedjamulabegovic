@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fedja Mulabegovic <img src="https://img.icons8.com/cotton/64/000000/artificial-intelligence.png"/></h1>
-<h3 align="center">I am a second-year student, looking for an internship in the field of computer science.</h3>
+<h3 align="center">I am a second-year student passionate about AI and software development, actively seeking internship opportunities in computer science with a focus on artificial intelligence.</h3>
 
 - 🌱 I’m currently learning **Machine learning**
 
