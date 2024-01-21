@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fedjamulabegovic](https://github.com/fedjamulabegovic)
+- 👨‍💻 First AI project [https://github.com/fedjamulabegovic/imhotep-game)
 
 - 📫 How to reach me **mulabegovicfedja@gmail.com**
 
