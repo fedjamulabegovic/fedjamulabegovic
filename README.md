@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fedja Mulabegovic</h1>
+<h1 align="center">Hi 👋, I'm Fedja Mulabegovic <img src="https://img.icons8.com/cotton/64/000000/artificial-intelligence.png"/></h1>
 <h3 align="center">I am a second-year student, looking for an internship in the field of computer science.</h3>
 
 - 🌱 I’m currently learning **Machine learning**
